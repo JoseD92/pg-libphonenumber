@@ -7,6 +7,7 @@ extern "C" {
     #include "postgres.h"
     #include "libpq/pqformat.h"
     #include "fmgr.h"
+    #include "varatt.h"
 }
 
 #include "error_handling.h"
